@@ -1,7 +1,7 @@
 # Respostas do LAB 01
 
-Nome: Elias 
-Matricula: Martins de Almeida
+Nome: Elias Martins de Almeida
+Matricula: 26127991
 Dupla (M2 em diante): Lucas gomes
 
 ---
