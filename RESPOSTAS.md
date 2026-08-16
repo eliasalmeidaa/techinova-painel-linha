@@ -1,8 +1,8 @@
 # Respostas do LAB 01
 
-Nome:
-Matricula:
-Dupla (M2 em diante):
+Nome: Elias 
+Matricula: Martins de Almeida
+Dupla (M2 em diante): Lucas gomes
 
 ---
 
