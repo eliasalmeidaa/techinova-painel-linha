@@ -12,6 +12,12 @@
     "unidade": "F"
   },
   {
+    "codigo":"S-997",
+    "descricao": "Esteira de entrada",
+    "valor": 90.1,
+    "unidade": "F"
+  },
+  {
     "codigo": "S-103",
     "descricao": "Esteira de saida",
     "valor": 71.6,
